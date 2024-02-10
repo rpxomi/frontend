@@ -2,10 +2,15 @@
 ---
 Formulario hecho dentro de un componente de React, para probar la conexión del backend.
 
-React
-Vite
-MySQL
-MySQL Workbench CE
-Postman
-IntelliJ IDEA
-JDK 17
+Se uso:
+=======
+* Node
+* React
+* Vite
+
+* MySQL 8.0
+* MySQL Workbench CE
+
+* JDK 17
+* IntelliJ IDEA
+* Postman
