@@ -1,5 +1,5 @@
 # frontend
-Formulario hecho dentro de un componente de React, para probar la conexión hacia el backend.
+Formularios y rutas.
 
 Se usó:
 ---
