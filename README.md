@@ -1,9 +1,8 @@
 # frontend
----
 Formulario hecho dentro de un componente de React, para probar la conexión hacia el backend.
 
 Se usó:
-=======
+---
 * Node (21.6.1)
 * NPM (9.8.1)
 * React (^18.2.0)
@@ -12,6 +11,6 @@ Se usó:
 * MySQL (8.0)
 * MySQL Workbench CE (8.0)
 
-* JDK 17
+* IBM Semeru (JDK 17)
 * IntelliJ IDEA (2023.1.3)
 * Postman (10.22.0)
